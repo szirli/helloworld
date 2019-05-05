@@ -5,7 +5,6 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>JenkinTest</name>
   <description>JenkinTest Description</description>
-     
   <dependencies>
   	<dependency>
   		<groupId>junit</groupId>
