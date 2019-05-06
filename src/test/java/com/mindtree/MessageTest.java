@@ -11,6 +11,6 @@ public class MessageTest {
 	@Test
 	public void testMessage() {
 		MessageClass message = new MessageClass();
-		assertEquals("Hello World!!", message.getMessage());
+		assertEquals("Hello World!!!", message.getMessage());
 	}
 }
